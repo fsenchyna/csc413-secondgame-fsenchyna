@@ -28,7 +28,7 @@ To set up project correctly in IntelliJ, go to File -> Project Structure -> Proj
 
 Under File -> Project Structure -> Modules
 
-•	Name/Root: csc413-secondgame-fsenchyna
+•	Name/Root: csc413-secondgame-fsenchyna-master
 
 •	Sources: src folder
 
