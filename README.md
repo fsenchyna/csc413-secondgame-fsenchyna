@@ -14,7 +14,7 @@ Version of Java used: 1.8
 
 Current working directory of the game:csc413-secondgame-fsenchyna-master
 
-##Importing the game into IntelliJ:
+Importing the game into IntelliJ:
 
 To set up project correctly in IntelliJ, go to File -> Project Structure -> Project and check the following is correct:
 
@@ -49,7 +49,7 @@ From the command line: go to the csc413-secondgame-fsenchyna-master/jar folder a
 
 From IntelliJ: current working directory for the game is 'csc413-secondgame-fsenchyna-master'.
 
-##Controls to play game:
+Controls to play game:
 
 Explorer Controls: Up arrow key = move forwards, Down arrow key = move backwards, Left arrow key = rotate left, Right arrow key = rotate right.
 
@@ -57,7 +57,7 @@ To collect treasure just walk over the treasure piece. Scarabs cause the mummies
 The explorer starts off with 3 lives. Potions increase the health of the explorer; and mummies, scorpions, and beetles decrease the explorers health.
 The game ends when the explorer either dies or picks up the Sword of Ra.
 
-##General game Description:
+General game Description:
 
 Use the arrow keys to navigate your explorer around the maze like pyramid.
 Beware of the dangerous scorpions, beetles and mummies wandering around, they are hungry!
