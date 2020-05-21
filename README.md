@@ -17,24 +17,38 @@ Current working directory of the game:csc413-secondgame-fsenchyna-master
 Importing the game into IntelliJ:
 
 To set up project correctly in IntelliJ, go to File -> Project Structure -> Project and check the following is correct:
-•	Project Name: csc413-secondgame-fsenchyna-master
+
+•Project Name: csc413-secondgame-fsenchyna-master
+
 •	Project SDK: 1.8
+
 •	Project language level: 8 - lambdas, type annotations etc.
+
 •	Project compiler output: ~/ csc413-secondgame-fsenchyna-master/out
+
 Under File -> Project Structure -> Modules
+
 •	Name/Root: csc413-secondgame-fsenchyna
+
 •	Sources: src folder
+
 •	Resources: resources folder
+
 •	Excluded: out folder
+
 When the project is set up correctly in the Project Structure, go to Run -> Edit Configurations:
+
 •	Click + button in the top left corner and add an application
+
 •	Under 'Name' type pyramid.PyramidPanicUI and under the 'main class' type 'pyramid.gui.PyramidPanicUI'
 
 How to run game:
 
-Running the jar: from the command line, go to the csc413-secondgame-fsenchyna-master/jar folder and type: java -jar csc413-secondgame-fsenchyna-master.jar
+Running the jar:
 
-Running from IntelliJ: current working directory for the game is 'csc413-secondgame-fsenchyna-master'.
+From the command line: go to the csc413-secondgame-fsenchyna-master/jar folder and type: java -jar csc413-secondgame-fsenchyna-master.jar
+
+From IntelliJ: current working directory for the game is 'csc413-secondgame-fsenchyna-master'.
 
 Controls to play game:
 
