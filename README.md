@@ -43,7 +43,7 @@ When the project is set up correctly in the Project Structure, go to Run -> Edit
 •	Under 'Name' type pyramid.PyramidPanicUI and under the 'main class' type 'pyramid.gui.PyramidPanicUI'
 
 
-##Running the jar:
+Running the jar:
 
 From the command line: go to the csc413-secondgame-fsenchyna-master/jar folder and type: java -jar csc413-secondgame-fsenchyna-master.jar
 
