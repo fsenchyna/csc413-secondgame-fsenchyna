@@ -1,8 +1,0 @@
-<component name="ArtifactManager">
-  <artifact type="jar" name="csc413-secondgame-fsenchyna:jar">
-    <output-path>$PROJECT_DIR$/out/artifacts/csc413_secondgame_fsenchyna_jar</output-path>
-    <root id="archive" name="csc413-secondgame-fsenchyna.jar">
-      <element id="module-output" name="csc413-secondgame-fsenchyna" />
-    </root>
-  </artifact>
-</component>
